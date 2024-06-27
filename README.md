@@ -69,5 +69,5 @@ This project is a Broker web application that provides various functionalities f
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/yourusername/real-estate-web-app.git
-   cd real-estate-web-app
+   git clone https://github.com/Henabakos/broker-website.git
+   cd broker-website
