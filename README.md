@@ -8,12 +8,12 @@ This project is a Broker web application that provides various functionalities f
 ### Home Page
 - **Description:** The homepage welcomes users with a hero section that introduces the website and its services.
 - **Image:**
-  ![Home Page](.\src\assets\images\Home.png)
+  ![Home Page](./src/assets/images/Home.png)
 
 ### For Sale Page
 - **Description:** This page lists all the homes available for sale with details such as title, description, price, and images.
 - **Image:**
-  ![For Sale Page](.\src\assets\images\ForSale.png)
+  ![For Sale Page](./src/assets/images/ForSale.png)
 
 ### For Rent Page
 - **Description:** This page lists all the homes available for rent with details such as title, description, price, and images.
