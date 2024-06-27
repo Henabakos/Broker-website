@@ -69,5 +69,5 @@ This project is a Broker web application that provides various functionalities f
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/Henabakos/broker-website.git
+   https://github.com/Henabakos/Broker-website.git
    cd broker-website
